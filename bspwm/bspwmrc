@@ -22,6 +22,6 @@ bspc rule -a Screenkey manage=off
 
 picom &
 
-nitrogen --restore
+feh --bg-fill ~/Downloads/gruv.png
 
 bash /home/noob/.config/polybar/launch.sh &

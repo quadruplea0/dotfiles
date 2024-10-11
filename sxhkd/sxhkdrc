@@ -10,10 +10,16 @@ super + Return
 super + @space
 	rofi -show drun
 
+# power menu
+super + p
+        rofi -show power-menu -modi power-menu:rofi-power-menu
+
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
 
+Print
+ flameshot gui
 #
 # bspwm hotkeys
 #
