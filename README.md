@@ -22,5 +22,7 @@ if youre running any other distro try find the packages for urs sorry
 
 uhh yeah hope u like these :3
 
+## preview
+![the glorious](https://github.com/quadruplea0/dotfiles/blob/main/image.png?raw=true)
 
 
