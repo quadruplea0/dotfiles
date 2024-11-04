@@ -6,7 +6,7 @@ very cool gruvbox dot files for bspwm
 ### PACKAGES:
 
 ```
-sudo pacman -S git nitrogen bspwm sxhkd kitty polybar rofi picom ttf-jetbrains-mono ttf-jetbrains-mono-nerd
+sudo pacman -S git nitrogen bspwm sxhkd kitty polybar rofi picom ttf-jetbrains-mono ttf-jetbrains-mono-nerd flameshot
 ```
 ### DOTFILES:
 
